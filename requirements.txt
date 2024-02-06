@@ -1,0 +1,9 @@
+numpy
+tensorflow
+keras - pad_sequences
+keras -Tokenizer
+keras - LSTM, GRU, Dense, Embedding
+Pillow
+tqdm
+matplotlib
+scikit-learn
