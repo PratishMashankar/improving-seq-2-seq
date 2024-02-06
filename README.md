@@ -20,7 +20,7 @@ Through this report we are generating an English to French translation using the
 	scikit-learn
 
 ## Model Generation:
-	Initially, we choose a target language for translation, ensuring the availability of a suitable parallel dataset for training and evaluation. We have chosen the language French for this assignment. We have received the sentence pairs from “manythings.org” portal. We evaluated the performance using the seq2seq model with and without attention. We have used Glove 50 embeddings which are not included in the submission folder. The notebook is well formatted and best viewed in Google Colab
+Initially, we choose a target language for translation, ensuring the availability of a suitable parallel dataset for training and evaluation. We have chosen the language French for this assignment. We have received the sentence pairs from “manythings.org” portal. We evaluated the performance using the seq2seq model with and without attention. We have used Glove 50 embeddings which are not included in the submission folder. The notebook is well formatted and best viewed in Google Colab
 
 
 
