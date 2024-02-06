@@ -22,6 +22,5 @@ Through this report we are generating an English to French translation using the
 ## Model Generation:
 Initially, we choose a target language for translation, ensuring the availability of a suitable parallel dataset for training and evaluation. We have chosen the language French for this assignment. We have received the sentence pairs from “manythings.org” portal. We evaluated the performance using the seq2seq model with and without attention. We have used Glove 50 embeddings which are not included in the submission folder. The notebook is well formatted and best viewed in Google Colab
 
-
-
-
+## Declaration
+Project submitted towards the partial procurement of credits for CS747 Deep Learning at GMU under Professor Daniel Barbara
